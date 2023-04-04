@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @matthew-vanpraagh
 - 👀 I’m interested in statistics, data science, and computer science.
+- 👍 Proficient in Python.
 - 🌱 I’m currently learning how to use SQL, R, and other Linux commands.
 - 💞️ I’m looking to collaborate on a statistical analysis project.
 - 📫 How to reach me:
